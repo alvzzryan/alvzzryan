@@ -67,7 +67,7 @@ Automações, estudos e aplicações práticas.
 
 ---
 
-## 📫 Conecte-se comigo
+## 💻 Minha rede
 
 <a href="https://linkedin.com/in/ryan-alves12" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
