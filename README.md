@@ -83,6 +83,4 @@ Automações, estudos e aplicações práticas.
 
 ### 🚀 "Code, Learn, Improve, Repeat."
 
-![Profile Views](https://komarev.com/ghpvc/?username=alvzzryan&color=blueviolet&style=for-the-badge)
-
 </div>
