@@ -16,7 +16,7 @@
 
 🚗 Experiência em Software Automotivo, Debugging, Testes e Automação
 
-🌱 Atualmente estudando Backend Development, Docker e Arquitetura de Software
+🌱 Atualmente estudando Backend Development e Arquitetura de Software
 
 🎯 Objetivo: Evoluir como Engenheiro de Software e Desenvolvedor Backend
 
