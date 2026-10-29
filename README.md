@@ -53,8 +53,8 @@
 
 ## 📂 Projetos
 
-### 🤖 Automação
-Scripts para produtividade e automação de tarefas.
+### 🤖 Inteligência Artificial
+Estudos, testes e aplicações práticas utilizando IA Generativa, LLMs e técnicas de Prompt Engineering.
 
 ### 🚗 Software Automotivo
 Ferramentas relacionadas a validação, debugging e testes.
