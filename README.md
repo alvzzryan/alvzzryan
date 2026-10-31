@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Ryan Nunes Alves
+# 👋 Olá, eu sou Ryan Nunes Alves<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Hello, I am Ryan Nunes Alves</sub>
 
 <div align="center">
 
@@ -19,15 +20,15 @@
 
 
 🚗 Experiência em Software Automotivo, Debugging, Testes e Automação<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Automotive Software, Debugging, Testing and Automation</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Experience in Automotive Software, Debugging, Testing and Automation</sub>
 
 
 🌱 Atualmente estudando Backend Development e Arquitetura de Software<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently studying Backend Development and Software Architectur</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Currently studying Backend Development and Software Architectur</sub>
 
 
 🎯 Objetivo: Evoluir como Engenheiro de Software e Desenvolvedor Backend<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal: Grow as a Software Engineer and Backend Developer</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Goal: Grow as a Software Engineer and Backend Developer</sub>
 
 ---
 
