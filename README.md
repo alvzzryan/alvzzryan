@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou Ryan Nunes Alves<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Hello, I am Ryan Nunes Alves</sub>
+<h1 align="left">👋 Olá, eu sou Ryan Nunes Alves</h1>
 
-<div align="center">
+<p align="left">
+  <sub><i>Hello, I am Ryan Nunes Alves</i></sub>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern+at+Marelli;Systems+Information+Student;Python+%7C+C+%7C+Automation;Automotive+Software+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
