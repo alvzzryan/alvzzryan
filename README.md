@@ -11,6 +11,7 @@
 ## 🚀 Sobre Mim
 
 💻 Estagiário de P&D em Engenharia de Software na Marelli
+    Software Engineering R&D Intern at Marelli
 
 🎓 Graduando em Sistemas de Informação
 
