@@ -18,11 +18,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Information Systems Undergraduate Student</sub>
 
 
-🚗 Experiência em Software Automotivo, Debugging, Testes e Automação
+🚗 Experiência em Software Automotivo, Debugging, Testes e Automação<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Automotive Software, Debugging, Testing and Automation</sub>
 
-🌱 Atualmente estudando Backend Development e Arquitetura de Software
 
-🎯 Objetivo: Evoluir como Engenheiro de Software e Desenvolvedor Backend
+🌱 Atualmente estudando Backend Development e Arquitetura de Software<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently studying Backend Development and Software Architectur</sub>
+
+
+🎯 Objetivo: Evoluir como Engenheiro de Software e Desenvolvedor Backend<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal: Grow as a Software Engineer and Backend Developer</sub>
 
 ---
 
